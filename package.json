@@ -17,5 +17,6 @@
   },
   "homepage": "https://github.com/libermatic/libermatic_extras#readme",
   "dependencies": {
+    "jsbarcode": "^3.11.0"
   }
 }
