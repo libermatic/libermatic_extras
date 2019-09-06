@@ -1,6 +1,6 @@
 {
   "name": "libermatic_extras",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extra content for Libermatic users",
   "main": "libermatic_extras/public/js/index.js",
   "scripts": {
