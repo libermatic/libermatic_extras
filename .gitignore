@@ -4,3 +4,9 @@
 *.swp
 tags
 libermatic_extras/docs/current
+__pycache__
+
+# Bench runtime
+node_modules/
+libermatic_extras/public/node_modules
+yarn.lock
