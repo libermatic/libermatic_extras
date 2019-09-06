@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
-from . import __version__ as app_version
+from . import __version__
 
 app_name = "libermatic_extras"
+app_version = __version__
 app_title = "Libermatic Extras"
 app_publisher = "Libermatic"
 app_description = "Extra content for Libermatic users"
@@ -15,8 +16,8 @@ app_license = "MIT"
 # ------------------
 
 # include js, css files in header of desk.html
-app_include_css = "assets/css/libermatic.css"
 # app_include_js = "/assets/libermatic_extras/js/libermatic_extras.js"
+app_include_css = "/assets/css/libermatic.css"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/libermatic_extras/css/libermatic_extras.css"
@@ -39,7 +40,7 @@ app_include_css = "assets/css/libermatic.css"
 
 # website user home page (by Role)
 # role_home_page = {
-#	"Role": "home_page"
+# 	"Role": "home_page"
 # }
 
 # Website user home page (by function)
@@ -84,7 +85,7 @@ app_include_css = "assets/css/libermatic.css"
 # 		"on_update": "method",
 # 		"on_cancel": "method",
 # 		"on_trash": "method"
-#	}
+# 	}
 # }
 
 # Scheduled Tasks

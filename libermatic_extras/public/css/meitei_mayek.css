@@ -1,13 +1,26 @@
 @font-face {
-  font-family: 'MeiteiMayek';
-  src: url('/assets/libermatic_extras/fonts/NotoSansMeeteiMayek-Regular.eot'); /* IE9 Compat Modes */
+  font-family: MeiteiMayek;
+  /* IE9 Compat Modes */
+  src: url('/assets/libermatic_extras/fonts/NotoSansMeeteiMayek-Regular.eot');
   src: local('Noto Sans Meetei Mayek'),
-    url('/assets/libermatic_extras/fonts/NotoSansMeeteiMayek-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('/assets/libermatic_extras/fonts/NotoSansMeeteiMayek-Regular.otf') format('opentype'), /* Open Type Font */
-    url('/assets/libermatic_extras/fonts/NotoSansMeeteiMayek-Regular.svg') format('svg'), /* Legacy iOS */
-    url('/assets/libermatic_extras/fonts/NotoSansMeeteiMayek-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
-    url('/assets/libermatic_extras/fonts/NotoSansMeeteiMayek-Regular.woff') format('woff'), /* Modern Browsers */
-    url('/assets/libermatic_extras/fonts/NotoSansMeeteiMayek-Regular.woff2') format('woff2'); /* Modern Browsers */
+    /* IE6-IE8 */
+      url('/assets/libermatic_extras/fonts/NotoSansMeeteiMayek-Regular.eot?#iefix')
+      format('embedded-opentype'),
+    /* Open Type Font */
+      url('/assets/libermatic_extras/fonts/NotoSansMeeteiMayek-Regular.otf')
+      format('opentype'),
+    /* Legacy iOS */
+      url('/assets/libermatic_extras/fonts/NotoSansMeeteiMayek-Regular.svg')
+      format('svg'),
+    /* Safari, Android, iOS */
+      url('/assets/libermatic_extras/fonts/NotoSansMeeteiMayek-Regular.ttf')
+      format('truetype'),
+    /* Modern Browsers */
+      url('/assets/libermatic_extras/fonts/NotoSansMeeteiMayek-Regular.woff')
+      format('woff'),
+    /* Modern Browsers */
+      url('/assets/libermatic_extras/fonts/NotoSansMeeteiMayek-Regular.woff2')
+      format('woff2');
   font-weight: normal;
   font-style: normal;
 }
