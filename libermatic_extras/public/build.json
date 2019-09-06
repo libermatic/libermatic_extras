@@ -1,4 +1,5 @@
 {
   "css/libermatic.css": ["public/css/meitei_mayek.css"],
-  "js/libermatic.min.js": ["public/js/index.js"]
+  "js/libermatic.min.js": ["public/js/index.js"],
+  "js/libermatic_print.min.js": ["public/js/print.js"]
 }
